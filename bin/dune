@@ -1,0 +1,4 @@
+(executable
+ (public_name aoc_2023)
+ (name day_1)
+ (libraries aoc_2023 core fmt))
