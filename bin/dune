@@ -1,4 +1,9 @@
 (executable
- (public_name aoc_2023)
- (name day_1)
+ (public_name day_1_a)
+ (name day_1_a)
+ (libraries aoc_2023 core fmt))
+
+(executable
+ (public_name day_1_b)
+ (name day_1_b)
  (libraries aoc_2023 core fmt))
